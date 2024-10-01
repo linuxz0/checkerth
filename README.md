@@ -38,9 +38,9 @@ const respuesta = await fetch("https://freeapi.stery.us/api/checarCC", {
       body: JSON.stringify(tarjetas),
     });
     const datos = await respuesta.json();
-```
+```linuxchecker
 
-
+ven a divertirte
 ## Obtener tarjetas:
 
 Se puede usar un ciclo FOR para hacerlo.
